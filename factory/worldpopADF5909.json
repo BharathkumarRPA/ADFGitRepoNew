@@ -1,0 +1,9 @@
+{
+	"name": "worldpopADF5909",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5e5b3072-0613-4841-920c-c255dabc2d9a",
+		"tenantId": "aef6baf5-6231-4690-9308-23d674d56b05"
+	}
+}
